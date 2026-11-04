@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "name": "OKF",
+      "path": "../OKF"
+    },
+    {
+      "name": "bassalay-development",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.eol": "\n"
+  }
+}
